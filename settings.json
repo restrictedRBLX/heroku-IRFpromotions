@@ -1,6 +1,6 @@
 {
-  "username": "",
-  "password":"",
-  "key": "",
+  "username": "user",
+  "password":"pw",
+  "key": "otherpw",
   "maximumRank": 255
 }
